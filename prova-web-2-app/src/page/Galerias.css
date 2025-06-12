@@ -1,0 +1,61 @@
+.alingCard{
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    flex-direction: row;
+}
+.alingCard li{
+    text-decoration: none;
+    list-style: none;
+}
+
+
+.Cards{
+    background-color: rgba(113, 194, 113, 0.363);
+    width: 20vw;
+    padding: 2vw;
+    margin: 1vw;
+    border-radius: 5px;
+}
+
+.InfoPets{
+    margin: 3vw;
+}
+
+.InfoPets h2{
+    font-weight: bolder;
+    font-size: 1.5rem;
+    font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+}
+
+.InfoPets p{
+    font-weight: bold;
+    margin: 0.2vw;
+    font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+}
+
+
+.FundoPets{
+   display: flex;
+   flex-direction:column;
+   max-width:100vw;
+   height: auto;
+   padding: 32px;
+   background: white;
+   border-radius: 12px;
+ }
+
+ .NomePet h2{
+    font-weight: bold;
+    font-size: 1.4rem;
+    font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+ }
+
+ .sobrePet h3{
+    font-weight:bolder;
+    font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+ }
+
+ .sobrePet span{
+    font-weight: normal;
+ }

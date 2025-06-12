@@ -1,0 +1,42 @@
+
+
+.home-container h1 {
+  font-size: 2.5rem;
+  margin-bottom: 1rem;
+  color: rgba(126, 190, 28, 0.829);
+   font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+
+}
+
+.home-container span{
+  color: green;
+   font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+}
+
+.home-container p {
+  font-size: 1.1rem;
+  color: #555;
+ font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+}
+
+.btn-home{
+  background: rgb(102, 165, 8);
+  color: #fff;
+  text-decoration: none;
+  padding: 0.7vw;
+  border-radius: 5px;
+  font-weight: bold;
+  font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+}
+
+
+.FundoHome {
+   display: flex;
+   flex-direction:column;
+   max-width:1000px;
+   height: 20vh;
+   padding: 32px;
+   background: white;
+   border-radius: 12px;
+   margin: 5% 20% 10%;
+ }
